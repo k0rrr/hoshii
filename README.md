@@ -40,7 +40,29 @@ flowchart LR
 
 ## 画面
 
-画面のスクリーンショットは、リポジトリに共有可能な実画面画像が含まれていないため掲載していません。アプリを起動すると、ホーム、需要一覧、投稿、詳細、マイページなどを確認できます。
+以下はFigmaで作成したUIデザイン案です。現在のアプリ実装画面そのものではなく、画面内の投稿や賛同数などもサンプルです。特にマップはイメージ表現で、アプリに地図機能が実装済みであることを示すものではありません。
+
+### 投稿内容の確認
+
+![投稿内容の確認画面デザイン](docs/screenshots/post-review.png)
+
+### 需要アンケート
+
+![需要アンケート画面デザイン](docs/screenshots/vote-dialog.png)
+
+### 賛同完了
+
+![賛同完了画面デザイン](docs/screenshots/vote-complete.png)
+
+[Figmaで全画面のデザインを見る](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design)
+
+ほかの画面はFigmaのフレームから確認できます。
+
+- [ホーム](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design?node-id=33-2)
+- [需要マップ](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design?node-id=33-20)
+- [投稿入力](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design?node-id=33-38)
+- [需要詳細](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design?node-id=33-74)
+- [マイページ](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design?node-id=33-128)
 
 ## 技術スタック
 
