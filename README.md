@@ -42,27 +42,26 @@ flowchart LR
 
 以下はFigmaで作成したUIデザイン案です。現在のアプリ実装画面そのものではなく、画面内の投稿や賛同数などもサンプルです。特にマップはイメージ表現で、アプリに地図機能が実装済みであることを示すものではありません。
 
-### 投稿内容の確認
-
-![投稿内容の確認画面デザイン](docs/screenshots/post-review.png)
-
-### 需要アンケート
-
-![需要アンケート画面デザイン](docs/screenshots/vote-dialog.png)
-
-### 賛同完了
-
-![賛同完了画面デザイン](docs/screenshots/vote-complete.png)
-
 [Figmaで全画面のデザインを見る](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design)
 
-ほかの画面はFigmaのフレームから確認できます。
-
-- [ホーム](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design?node-id=33-2)
-- [需要マップ](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design?node-id=33-20)
-- [投稿入力](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design?node-id=33-38)
-- [需要詳細](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design?node-id=33-74)
-- [マイページ](https://www.figma.com/design/wVuXNjga18EEZIEpfGHxBJ/HOSHII-v0.1-UI-Design?node-id=33-128)
+<table>
+  <tr>
+    <td align="center"><strong>ホーム</strong><br><img src="docs/screenshots/home.png" alt="ホーム画面のデザイン" width="100%"></td>
+    <td align="center"><strong>需要マップ</strong><br><img src="docs/screenshots/demand-map.png" alt="需要マップ画面のデザイン" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>投稿入力</strong><br><img src="docs/screenshots/post-input.png" alt="投稿入力画面のデザイン" width="100%"></td>
+    <td align="center"><strong>投稿確認</strong><br><img src="docs/screenshots/post-review.png" alt="投稿確認画面のデザイン" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>需要詳細</strong><br><img src="docs/screenshots/demand-detail.png" alt="需要詳細画面のデザイン" width="100%"></td>
+    <td align="center"><strong>需要アンケート</strong><br><img src="docs/screenshots/vote-dialog.png" alt="需要アンケート画面のデザイン" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>賛同完了</strong><br><img src="docs/screenshots/vote-complete.png" alt="賛同完了画面のデザイン" width="100%"></td>
+    <td align="center"><strong>マイページ</strong><br><img src="docs/screenshots/mypage.png" alt="マイページ画面のデザイン" width="100%"></td>
+  </tr>
+</table>
 
 ## 技術スタック
 
